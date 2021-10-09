@@ -1,7 +1,10 @@
 # Scrumdinger_SwiftUI
-![Simulator Screen Shot - iPhone 11 - 2021-10-09 at 18 38 46](https://user-images.githubusercontent.com/43421834/136659088-4f6ceecb-c677-402c-be25-f8d16d7b5611.png)
-![Simulator Screen Shot - iPhone 11 - 2021-10-09 at 18 38 52](https://user-images.githubusercontent.com/43421834/136659090-3302285b-b93d-459b-9b01-e78da49bc9af.png)
-![Simulator Screen Shot - iPhone 11 - 2021-10-09 at 18 39 01](https://user-images.githubusercontent.com/43421834/136659091-ba1dfddc-0e9c-4c63-bb59-eb5731cdf00c.png)
-![Simulator Screen Shot - iPhone 11 - 2021-10-09 at 18 39 06](https://user-images.githubusercontent.com/43421834/136659095-b8a385b9-ae23-4513-869a-8286f00b02ad.png)
-![Simulator Screen Shot - iPhone 11 - 2021-10-09 at 18 39 18](https://user-images.githubusercontent.com/43421834/136659096-13abb3e2-a00c-4fd6-92fc-59db483da7db.png)
-![Simulator Screen Shot - iPhone 11 - 2021-10-09 at 18 39 30](https://user-images.githubusercontent.com/43421834/136659097-d211358d-ce55-4781-91f2-f07a7864a97a.png)
+
+
+![Screenshot 2021-10-09 at 6 44 39 PM](https://user-images.githubusercontent.com/43421834/136659260-16b0e1a3-319e-433a-81a4-ff7c0ec774d2.png)
+![Screenshot 2021-10-09 at 6 44 48 PM](https://user-images.githubusercontent.com/43421834/136659265-15f0b2a9-8dc2-459a-bd3f-935eb6533d78.png)
+![Screenshot 2021-10-09 at 6 44 55 PM](https://user-images.githubusercontent.com/43421834/136659267-9622d960-82dc-40c7-bcea-4e8d7149bd42.png)
+![Screenshot 2021-10-09 at 6 45 00 PM](https://user-images.githubusercontent.com/43421834/136659271-7babde5c-12dc-45c4-be56-541dcb70f88b.png)
+![Screenshot 2021-10-09 at 6 45 08 PM](https://user-images.githubusercontent.com/43421834/136659272-67ac2be6-f2b8-4229-901b-7c3296f37554.png)
+![Screenshot 2021-10-09 at 6 45 15 PM](https://user-images.githubusercontent.com/43421834/136659273-83849286-2496-4942-9cdd-d319392318ca.png)
+
